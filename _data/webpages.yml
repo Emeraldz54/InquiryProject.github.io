@@ -1,0 +1,42 @@
+wepbage_list_title: Directory
+toc:
+
+- title: Home
+  url: /
+
+- title: Calendar
+  url: /calendar
+
+- title: Divisions
+  url: /division/Divisions
+  sublinks:
+    - title: Hardware
+      url: /division/Hardware
+    - title: Software
+      url: /division/Software
+    - title: Systems
+      url: /division/Systems
+
+- title: Officers
+  url: /bio/Officers
+  sublinks:
+    - title: President
+      url: /bio/chy
+    - title: VP Software
+      url: /bio/mil
+    - title: VP Systems
+      url: /bio/vav
+    - title: VP Hardware
+      url: /bio/trw
+    - title: Sec/ICC
+      url: /bio/jut
+    - title: Treasurer
+      url: /bio/nit
+    - title: Communications
+      url: /bio/dah
+
+- title: About Us
+  url: /404
+  
+- title: Contact
+  url: /contact
